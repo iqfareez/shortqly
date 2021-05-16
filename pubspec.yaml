@@ -32,6 +32,9 @@ dependencies:
   firebase_core: ^1.1.1
   qr_flutter: ^4.0.0
   animations: ^2.0.0
+  url_launcher: ^6.0.3
+  progress_indicators: ^1.0.0
+  share_plus: ^2.0.3
 
 dev_dependencies:
   flutter_test:

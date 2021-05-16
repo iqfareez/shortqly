@@ -1,4 +1,4 @@
 // Links
-const kShortFdl = 'https://sqly.page.link';
+const kShortFdl = 'sqly.page.link';
 
 const kAppName = 'Shortqly';
