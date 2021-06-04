@@ -16,10 +16,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: kAppName,
       theme: ThemeData(
-        primarySwatch: Colors.blue,
-        primaryTextTheme: GoogleFonts.nunitoTextTheme(),
-        textTheme: GoogleFonts.nunitoTextTheme(),
-      ),
+          primarySwatch: Colors.blue,
+          fontFamily: GoogleFonts.nunito().fontFamily),
       home: Home(kAppName),
     );
   }
